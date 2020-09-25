@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from simple_server import Credentials, CredentialChecker, CredentialCheckerEntry, sendResponseJSON
+from credential_checker import Credentials, CredentialChecker, CredentialCheckerEntry, sendResponseJSON
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 USERNAME_PARAM = 'u'

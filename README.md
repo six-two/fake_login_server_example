@@ -5,7 +5,7 @@ This is an example of how to write a server, that communicates with one of my fa
 ## Supported fake logins
 
 - [Kali linux](https://projects.six-two.dev/react_fake_kali_login/)
-- [Windows 10](https://projects.six-two.dev/www.google.com)
+- [Windows 10](https://projects.six-two.dev/react_fake_win10_login/)
 
 ## Architecture
 
